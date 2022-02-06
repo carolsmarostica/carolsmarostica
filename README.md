@@ -4,12 +4,12 @@ Oii, meu nome é Carol!
 
 ATUALMENTE
 - 📚 Cursando Ciência da Computação na Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP).
-- 🎨 Procurando aprender mais sobre UI Design. ([portfólio](https://www.behance.net/carolsmarostica))
+- 🎨 Procurando aprender mais sobre UI Design. <!--([portfólio](https://www.behance.net/carolsmarostica))-->
  
 BIO
 - 🎓 Técnica em informática pelo Centro Federal de Educação Tecnológica (CEFET/MG).
 - 🔍 Comunicativa e observadora.
-- 👾 Amante de jogos eletrônicos e mídias sociais. ([instagram](https://www.instagram.com/carolsmarostica))
+- 👾 Amante de jogos eletrônicos e mídias sociais. <!--([instagram](https://www.instagram.com/carolsmarostica))-->
 
 ##
 <!--STATS
