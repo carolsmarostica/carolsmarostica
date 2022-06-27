@@ -11,12 +11,10 @@ BIO
 - 🔍 Comunicativa e observadora.
 - 👾 Amante de jogos eletrônicos e mídias sociais. <!--([instagram](https://www.instagram.com/carolsmarostica))-->
 
+SOBRE MIM
+Estagiei por seis meses após a conclusão do Ensino Médio Técnico em uma empresa que era contratada terceirizada, erámos em 6 funcionários. Realizávamos atendimento remoto e presencial para resolver problemas com a rede (cabeamento) e quaisquer problemas que eles tivessem, desde certificado digital até atualização dos softwares gerenciais que eles usavam. 
+
 ##
-<!--STATS
-<div align="center">
-  <img height="150" src = "https://github-readme-stats.vercel.app/api?username=carolsmarostica&show_icons=true&theme=panda">
-  <img height="150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carolsmarostica&theme=panda" >
-</div>-->
 
 FERRAMENTAS <div style="display: inline_block"><br><svg viewBox="0 0 128 128">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
@@ -31,6 +29,6 @@ FERRAMENTAS <div style="display: inline_block"><br><svg viewBox="0 0 128 128">
   <div>
   <a href="https://www.behance.net/carolsmarostica" target="_blank"><img src="https://img.shields.io:/badge/BEHANCE-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/carolinasilvamarostica" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carolsmarostica@gmail.com"><img src="https://img.shields.io/badge/Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/carolsmarostica" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:carolsmarostica@gmail.com"><img src="https://img.shields.io/badge/Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  
     
