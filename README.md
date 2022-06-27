@@ -11,9 +11,6 @@ BIO
 - 🔍 Comunicativa e observadora.
 - 👾 Amante de jogos eletrônicos e mídias sociais. <!--([instagram](https://www.instagram.com/carolsmarostica))-->
 
-SOBRE MIM
-Estagiei por seis meses após a conclusão do Ensino Médio Técnico em uma empresa que era contratada terceirizada, erámos em 6 funcionários. Realizávamos atendimento remoto e presencial para resolver problemas com a rede (cabeamento) e quaisquer problemas que eles tivessem, desde certificado digital até atualização dos softwares gerenciais que eles usavam. 
-
 ##
 
 FERRAMENTAS <div style="display: inline_block"><br><svg viewBox="0 0 128 128">
