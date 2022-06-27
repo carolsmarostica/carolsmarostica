@@ -27,7 +27,8 @@ FERRAMENTAS <div style="display: inline_block"><br><svg viewBox="0 0 128 128">
   <a href="https://www.behance.net/carolsmarostica" target="_blank"><img src="https://img.shields.io:/badge/BEHANCE-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/carolinasilvamarostica" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carolsmarostica@gmail.com"><img src="https://img.shields.io/badge/Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-   <a href = "https://github.com/carolsmarostica/carolsmarostica/blob/main/CV-CarolinaSilvaMarostica.pdf"><img src="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" target="_blank"</a>
+   </br>
+   <a href = "https://github.com/carolsmarostica/carolsmarostica/blob/main/CV-CarolinaSilvaMarostica.pdf">Currículo atualizado</a>
   
    
     
