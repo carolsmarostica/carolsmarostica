@@ -3,13 +3,15 @@
 Oii, meu nome é Carol!
 
 ATUALMENTE
-- 📚 Cursando Ciência da Computação na Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP).
-- 🎨 Procurando aprender mais sobre UI Design. <!--([portfólio](https://www.behance.net/carolsmarostica))-->
+- 📚 Estudante de Ciências da Computação na Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP)
+- 🚀 Presidente da Info Jr, empresa júnior do meu curso na universidade
+- 🤖 Product Owner Júnior na empresa de Inteligência Artificial GoBots
+<!-- - 🎨 Procurando aprender mais sobre UI Design. ([portfólio](https://www.behance.net/carolsmarostica))-->
  
 BIO
-- 🎓 Técnica em informática pelo Centro Federal de Educação Tecnológica (CEFET/MG).
-- 🔍 Comunicativa e observadora.
-- 👾 Amante de jogos eletrônicos e mídias sociais. <!--([instagram](https://www.instagram.com/carolsmarostica))-->
+- 🔍 Comunicativa e observadora
+- 💪 Amante de esporte
+- 📸 Intusiasta da fotografia. <!--([instagram](https://www.instagram.com/carolsmarostica))-->
 
 ##
 
