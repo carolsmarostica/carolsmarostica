@@ -11,7 +11,7 @@ ATUALMENTE
 BIO
 - 🔍 Comunicativa e observadora
 - 💪 Amante de esporte
-- 📸 Intusiasta da fotografia. <!--([instagram](https://www.instagram.com/carolsmarostica))-->
+- 📸 Entusiasta da fotografia. <!--([instagram](https://www.instagram.com/carolsmarostica))-->
 
 ##
 
